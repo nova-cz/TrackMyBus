@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "899029744847",
+    "project_id": "fp24trackmybus",
+    "storage_bucket": "fp24trackmybus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899029744847:android:0cae52c09ff3677f1bcbba",
+        "android_client_info": {
+          "package_name": "com.example.fp24trackmybus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGHH51ucVEBVCebfo7bklXR-Sz2vcytqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899029744847:android:c8ce0b5ea1e4241f1bcbba",
+        "android_client_info": {
+          "package_name": "com.example.tmb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGHH51ucVEBVCebfo7bklXR-Sz2vcytqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
